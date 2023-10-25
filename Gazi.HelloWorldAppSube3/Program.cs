@@ -34,7 +34,7 @@
             Console.WriteLine("Yaşınızı giriniz:");
             byte yas = byte.Parse(Console.ReadLine());            
 
-            Console.WriteLine($"Hoşgeldin {isim} {soyad} Yaşınız:{yas}");
+            Console.WriteLine($"Hoşgeldin {isim} {soyad}");
 
             //TÜR DÖNÜŞÜMLERİ (Type Casting)
             //C# programlama dili, tip güvenliği(type safety) sağlayan bir dildir.Örn. byte bir veriye string bir değer atanamaz.
